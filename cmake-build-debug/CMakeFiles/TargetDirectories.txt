@@ -1,0 +1,3 @@
+/home/guilherme/Downloads/PearlHarbor1941/PearlHarbor1941/cmake-build-debug/CMakeFiles/Pearl_Harbor_1941.dir
+/home/guilherme/Downloads/PearlHarbor1941/PearlHarbor1941/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/guilherme/Downloads/PearlHarbor1941/PearlHarbor1941/cmake-build-debug/CMakeFiles/rebuild_cache.dir
